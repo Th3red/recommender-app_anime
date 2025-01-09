@@ -76,7 +76,6 @@ _Note:_ The above memory usages are illustrative. Replace them with your actual 
 - **U:** Number of users vectors
 - **M:** Number of anime
 - **K:** Number of neighbors
-- **R:** Average number of ratings per neighbor
 - **D:** Number of dimensions
 - **G:** Genres
 
