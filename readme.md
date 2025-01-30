@@ -152,7 +152,7 @@ This application is a **hybrid anime recommendation system** combining **collabo
 
 ## Execution Flow
 
-### **Startup**
+### **Startup** Note (local)
 
 1. Load environment variables.
 2. Establish a database connection.
