@@ -312,8 +312,8 @@ https://anime-rec-db-frontend.vercel.app/users/anime
 
 ### **Deployment Challenges**
 
-- Encountered memory usage limits when attempting to deploy the backend on **Render**.
-- The resource-intensive algorithms, such as building the sparse matrix and hnswlib index, require significant memory, which exceeded the allocation provided by Render's free tier.
+- Encountered memory usage limits when attempting to deploy the backend on **Render/AWS**.
+- The resource-intensive algorithms, such as building the sparse matrix and hnswlib index, require significant memory, which exceeded the allocation provided by Render's/AWS free tier.
 - As a result, the backend could not be fully deployed online.
 - **Mitigation**: Showcased the backend's functionality through locally generated results and images demonstrating successful recommendation outputs.
 
